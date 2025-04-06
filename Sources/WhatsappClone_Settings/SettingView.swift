@@ -17,7 +17,7 @@ public struct SettingView: View {
                 Form{
                     Section{
                         HStack{
-                            Image("Praveen version 3")
+                            Image("Praveen version 4")
                                 .resizable()
                                 .frame(width: 50, height: 50)
                                 .clipShape(.circle)
