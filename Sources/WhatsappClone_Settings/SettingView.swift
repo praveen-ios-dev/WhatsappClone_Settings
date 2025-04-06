@@ -22,7 +22,7 @@ public struct SettingView: View {
                                 .frame(width: 50, height: 50)
                                 .clipShape(.circle)
                             VStack(alignment: .leading){
-                                Text("Praveen Chaudhary")
+                                Text("Praveen")
                                     .font(.headline)
                                     .bold(true)
                                 Text("Don't say just \"hi\" -Context?")
