@@ -17,12 +17,12 @@ public struct SettingView: View {
                 Form{
                     Section{
                         HStack{
-                            Image("Praveen version 4")
+                            Image("Praveen")
                                 .resizable()
                                 .frame(width: 50, height: 50)
                                 .clipShape(.circle)
                             VStack(alignment: .leading){
-                                Text("Praveen")
+                                Text("Praveen 5")
                                     .font(.headline)
                                     .bold(true)
                                 Text("Don't say just \"hi\" -Context?")
